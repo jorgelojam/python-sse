@@ -1,0 +1,6 @@
+flask
+flask_sse
+aiohttp_sse_client
+asyncio
+gunicorn
+gevent
